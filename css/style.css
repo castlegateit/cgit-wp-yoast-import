@@ -1,0 +1,19 @@
+.cgit-wp-yoast-import table {
+    border-collapse: collapse;
+    margin: 1em 0;
+}
+
+.cgit-wp-yoast-import tr {
+    background: #f9f9f9;
+}
+
+.cgit-wp-yoast-import tr:nth-child(odd) {
+    background: #ffffff;
+}
+
+.cgit-wp-yoast-import td,
+.cgit-wp-yoast-import th {
+    padding: 0.5em 1em;
+    text-align: left;
+    vertical-align: top;
+}

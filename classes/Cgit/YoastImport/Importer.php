@@ -99,6 +99,7 @@ class Importer
         $desc_key = '_yoast_wpseo_metadesc';
 
         foreach ($this->data as $item) {
+            $id = $item->post_id;
             $title = $item->seo_title;
             $desc = $item->seo_description;
 

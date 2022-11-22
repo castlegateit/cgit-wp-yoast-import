@@ -5,7 +5,7 @@
 Plugin Name: Castlegate IT Yoast Import
 Plugin URI: https://github.com/castlegateit/cgit-wp-yoast-import
 Description: Import titles and descriptions into Yoast from ACF SEO and SEO Redux.
-Version: 1.0
+Version: 1.0.0
 Author: Castlegate IT
 Author URI: https://www.castlegateit.co.uk/
 Network: true
